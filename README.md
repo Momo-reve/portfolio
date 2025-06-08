@@ -1,2 +1,2 @@
 # portfolio
-Mini porte folio pôur BTS SIO - SLAM
+Mini porte folio pour BTS SIO - SLAM
