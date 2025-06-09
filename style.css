@@ -1,0 +1,104 @@
+
+.edu-nsw-act-hand-pre-<uniquifier> {
+  font-family: "Edu NSW ACT Hand Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.indie-flower-regular {
+  font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sniglet-regular {
+  font-family: "Sniglet", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.sniglet-extrabold {
+  font-family: "Sniglet", system-ui;
+  font-weight: 800;
+  font-style: normal;
+}
+
+
+
+body { 
+    font-family: Arial,sans-serif;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+    background-image: url('images/appareil_photo\(1\).png');
+    background-attachment: fixed;
+}
+
+nav,a {
+    font-family: Sniglet;
+    margin: 0 10px; 
+    text-decoration: none; 
+    color: #71c0c0; 
+    font-weight: 550;
+}
+
+
+header { 
+    background: #f0d7e3; 
+    padding: 20px; 
+    text-align: center;
+    border-radius: 27% 73% 54% 46% / 48% 77% 23% 52% ;
+    color : #842543;
+}
+
+h1{
+    font-family: Indie Flower, sans-serif;
+    font-size: 5em;
+    font-style: normal;   
+}
+
+p{
+    font-family:Sniglet;
+    font-weight: medium;
+}
+
+footer { 
+    background: #f0d7e3; 
+    padding: 20px; 
+    text-align: center;
+    border-radius: 89% 11% 84% 16% / 52% 49% 51% 48% ;
+}
+
+
+h1 { margin: 0; }
+
+#projet, h2{
+    font-family: Sniglet;
+    color : #842543;
+}
+
+ #projets ul { 
+    list-style: none; 
+    padding: 0;
+    font-family: Sniglet ; 
+    font-weight: normal;
+} 
+/* #projets li { margin-bottom: 10px; }* */
+
+#presentation {
+  background-color: #f0f8ff;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  margin-bottom: 40px;
+}
+#presentation h2 {
+  font-size: 1.8em;
+  color: #2c3e50;
+  font-family: Indie Flower;
+}
+#presentation p {
+  font-size: 1.1em;
+  line-height: 1.6;
+}
